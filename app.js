@@ -1,4 +1,4 @@
-for (var FizzBuzz = 1; FizzBuzz < 16; FizzBuzz++) {
+for (var FizzBuzz = 1; FizzBuzz < 101; FizzBuzz++) {
 	if (FizzBuzz % 15 == 0) {
 		console.log("fizz buzz");
 	}
